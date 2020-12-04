@@ -15,5 +15,5 @@ int main() {
   cout << sizeof(b) << endl;
   cout << sizeof(c) << endl;
 
-    return 0;
+  return 0;
 }
